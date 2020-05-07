@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <!--<item name="btn1" type="id"/>-->
+    <!--<item name="btn2" type="id"/>-->
+    <!--<item name="btn3" type="id"/>-->
+    <!--<item name="btn4" type="id"/>-->
+    <!--<item name="btn5" type="id"/>-->
+    <!--<item name="btn6" type="id"/>-->
+    <!--<item name="btn7" type="id"/>-->
+    <!--<item name="btn8" type="id"/>-->
+    <!--<item name="btn9" type="id"/>-->
+    <!--<item name="btn10" type="id"/>-->
+    <!--<item name="btn11" type="id"/>-->
+    <!--<item name="btn12" type="id"/>-->
+    <!--<item name="btn13" type="id"/>-->
+    <!--<item name="btn14" type="id"/>-->
+    <!--<item name="btn15" type="id"/>-->
+    <!--<item name="btn16" type="id"/>-->
+    <!--<item name="btn17" type="id"/>-->
+    <!--<item name="btn18" type="id"/>-->
+    <!--<item name="btn19" type="id"/>-->
+    <!--<item name="btn20" type="id"/>-->
+
+    <string name="app_id">51220059236</string>
+    <string name="package_name">com.parsveda.brainboost.numberspuzzle</string>
+    <string name="achievement_test_1">CgkI5KjQ574BEAIQAQ</string>
+    <string name="achievement_test_2">CgkI5KjQ574BEAIQAg</string>
+    <string name="achievement_test_3">CgkI5KjQ574BEAIQAw</string>
+    <string name="achievement_test_4">CgkI5KjQ574BEAIQBA</string>
+    <string name="achievement_test_5">CgkI5KjQ574BEAIQBQ</string>
+    <string name="leaderboard_test">CgkI5KjQ574BEAIQBg</string>
+
+
+
+    <integer name="simpletooltip_overlay_alpha">120</integer>
+    <integer name="simpletooltip_animation_duration">800</integer>
+
+</resources>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/background">
+
+    <TextView
+        android:id="@+id/txtTilte"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="5dp"
+        android:gravity="center_horizontal"
+        android:text="Do You Want To Skip?"
+        android:textColor="@color/dark_text"
+        android:textSize="30dp"/>
+
+    <Button
+        android:id="@+id/btnNo"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_below="@+id/txtTilte"
+        android:layout_marginBottom="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="15dp"
+        android:layout_toLeftOf="@+id/btnYes"
+        android:background="@drawable/button_circle_red"
+        android:text="NO"
+        android:textColor="@color/white"
+        android:textSize="20dp"/>
+
+    <Button
+        android:id="@+id/btnYes"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/txtTilte"
+        android:layout_marginBottom="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/button_circle_green"
+        android:text="YES"
+        android:textColor="@color/white"
+        android:textSize="20dp"/>
+
+</RelativeLayout>

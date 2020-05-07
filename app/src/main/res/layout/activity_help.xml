@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mainPanel"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:weightSum="1"
+    tools:context=".activity.HelpActivity">
+
+    <TextView
+        android:id="@+id/txtHint"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="0dp"
+        android:background="@color/white"
+        android:gravity="center"
+        android:text="HELP"
+        android:textColor="@color/red"
+        android:visibility="invisible"
+        android:textSize="30sp"/>
+
+    <RelativeLayout
+        android:id="@+id/pnlMain"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@color/background">
+
+        <AbsoluteLayout
+            android:id="@+id/absPanel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:background="@android:color/transparent">
+        </AbsoluteLayout>
+
+        <RelativeLayout
+            android:id="@+id/controlPanel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:background="@color/mid_blue_light"
+            android:visibility="gone">
+
+
+        </RelativeLayout>
+
+
+    </RelativeLayout>
+
+    <!--<RelativeLayout-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_marginBottom="10dp"-->
+    <!--android:background="@color/white">-->
+
+
+    <!--<Button-->
+    <!--android:id="@+id/btnNextStep"-->
+    <!--android:layout_width="80dp"-->
+    <!--android:layout_height="80dp"-->
+    <!--android:layout_alignParentTop="true"-->
+    <!--android:layout_centerHorizontal="true"-->
+    <!--android:layout_marginBottom="2dp"-->
+    <!--android:layout_marginTop="2dp"-->
+    <!--android:background="@drawable/button_circle_blue"-->
+    <!--android:text="NEXT"-->
+    <!--android:textColor="@color/white"-->
+    <!--android:textSize="20dp"/>-->
+    <!--</RelativeLayout>-->
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/background"
+        android:visibility="visible">
+
+        <TextView
+            android:id="@+id/btnRetry"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="2dp"
+            android:layout_marginTop="2dp"
+            android:background="@drawable/button_circle_blue_retry"
+            android:textColor="@color/white"/>
+
+
+        <TextView
+            android:id="@+id/btnUndo"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginBottom="2dp"
+            android:layout_marginLeft="50dp"
+            android:layout_marginTop="2dp"
+            android:background="@drawable/button_circle_blue_undo"
+            android:textColor="@color/white"/>
+
+
+
+        <TextView
+            android:id="@+id/btnSkip"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginBottom="2dp"
+            android:layout_marginRight="50dp"
+            android:layout_marginTop="2dp"
+            android:enabled="true"
+            android:background="@drawable/button_circle_blue_skip"
+            android:textColor="@color/white"/>
+
+
+
+
+        <!--<TextView-->
+            <!--android:id="@+id/btnRetry"-->
+            <!--android:layout_width="60dp"-->
+            <!--android:layout_height="60dp"-->
+            <!--android:layout_alignParentTop="true"-->
+            <!--android:layout_centerHorizontal="true"-->
+            <!--android:layout_marginBottom="2dp"-->
+            <!--android:layout_marginTop="2dp"-->
+            <!--android:enabled="false"-->
+            <!--android:background="@drawable/button_circle_blue_retry"-->
+            <!--android:textColor="@color/white"/>-->
+
+        <!--<TextView-->
+            <!--android:id="@+id/btnUndo"-->
+            <!--android:layout_width="60dp"-->
+            <!--android:layout_height="60dp"-->
+            <!--android:layout_alignParentLeft="true"-->
+            <!--android:layout_alignParentTop="true"-->
+            <!--android:layout_marginBottom="2dp"-->
+            <!--android:layout_marginLeft="2dp"-->
+            <!--android:layout_marginTop="2dp"-->
+            <!--android:enabled="false"-->
+            <!--android:background="@drawable/button_circle_blue_undo"-->
+            <!--android:textColor="@color/white"/>-->
+
+
+    </RelativeLayout>
+
+
+</LinearLayout>

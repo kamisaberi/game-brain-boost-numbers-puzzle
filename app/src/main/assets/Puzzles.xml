@@ -1,0 +1,1078 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Puzzles>
+    <!--  HELP 1 BEGIN-->
+    <Puzzle name="Puzzle 1	00" id="0">
+        <Elements>
+            <Element column="0" connect_to="1" id="0" row="0" type="1" value="4"/>
+            <Element column="0" connect_to="0,2" id="1" row="1" type="1" value="3"/>
+            <Element column="0" connect_to="1,3" id="2" row="2" type="1" value="1"/>
+            <Element column="1" connect_to="2,4" id="3" row="2" type="1" value="1"/>
+            <Element column="2" connect_to="3" id="4" row="2" type="1" value="2"/>
+        </Elements>
+    </Puzzle>
+    <!--  HELP 1 END-->
+    <Puzzle name="Puzzle 1	01" id="0">
+        <Elements>
+            <Element column="0" connect_to="1" id="0" row="0" type="1" value="5"/>
+            <Element column="0" connect_to="0,2" id="1" row="1" type="1" value="2"/>
+            <Element column="0" connect_to="1,3" id="2" row="2" type="3" value="0"/>
+            <Element column="0" connect_to="2,4" id="3" row="3" type="1" value="5"/>
+            <Element column="0" connect_to="3" id="4" row="4" type="1" value="2"/>
+        </Elements>
+    </Puzzle>
+    <Puzzle name="Puzzle 1	02" id="0">
+        <Elements>
+            <Element column="0" connect_to="1" id="0" row="0" type="1" value="4"/>
+            <Element column="1" connect_to="0,2" id="1" row="0" type="1" value="1"/>
+            <Element column="2" connect_to="1,3" id="2" row="0" type="2" value="0"/>
+            <Element column="3" connect_to="2,4" id="3" row="0" type="1" value="4"/>
+            <Element column="4" connect_to="3" id="4" row="0" type="1" value="1"/>
+        </Elements>
+    </Puzzle>
+    <Puzzle name="Puzzle 1	03" id="0">
+        <Elements>
+            <Element column="0" connect_to="1" id="0" row="0" type="1" value="1"/>
+
+            <Element column="1" connect_to="0,3" id="1" row="0" type="1" value="1"/>
+            <Element column="1" connect_to="5" id="2" row="2" type="1" value="1"/>
+
+            <Element column="2" connect_to="1,4" id="3" row="0" type="1" value="3"/>
+            <Element column="2" connect_to="3,5" id="4" row="1" type="3" value="0"/>
+            <Element column="2" connect_to="2,4,7" id="5" row="2" type="1" value="2"/>
+
+            <Element column="3" connect_to="7" id="6" row="1" type="1" value="1"/>
+            <Element column="3" connect_to="5,6" id="7" row="2" type="1" value="3"/>
+        </Elements>
+    </Puzzle>
+    <Puzzle name="Puzzle 12		4" id="0">
+        <Elements>
+            <Element column="0" connect_to="1" id="0" row="0" type="1" value="2"/>
+            <Element column="0" connect_to="0,2" id="1" row="1" type="1" value="-1"/>
+            <Element column="0" connect_to="1,3" id="2" row="2" type="3" value="0"/>
+            <Element column="0" connect_to="2,7" id="3" row="3" type="1" value="2"/>
+            <Element column="1" connect_to="5,8" id="4" row="0" type="1" value="1"/>
+            <Element column="1" connect_to="4,6" id="5" row="1" type="1" value="-1"/>
+            <Element column="1" connect_to="5,7" id="6" row="2" type="3" value="0"/>
+            <Element column="1" connect_to="3,6" id="7" row="3" type="1" value="3"/>
+            <Element column="2" connect_to="4,9" id="8" row="0" type="1" value="1"/>
+            <Element column="3" connect_to="8,10" id="9" row="0" type="1" value="2"/>
+            <Element column="3" connect_to="9,11" id="10" row="1" type="1" value="1"/>
+            <Element column="3" connect_to="10,12" id="11" row="2" type="3" value="0"/>
+            <Element column="3" connect_to="11,16" id="12" row="3" type="1" value="3"/>
+            <Element column="4" connect_to="14" id="13" row="0" type="1" value="5"/>
+            <Element column="4" connect_to="13,15" id="14" row="1" type="1" value="1"/>
+            <Element column="4" connect_to="14,16" id="15" row="2" type="3" value="0"/>
+            <Element column="4" connect_to="12,15" id="16" row="3" type="1" value="5"/>
+        </Elements>
+    </Puzzle>
+    <Puzzle name="Puzzle 1		22" id="1">
+        <Elements>
+            <Element column="0" connect_to="1" id="0" row="0" type="1" value="5"/>
+            <Element column="0" connect_to="0,2" id="1" row="1" type="1" value="3"/>
+            <Element column="0" connect_to="1,3" id="2" row="2" type="1" value="2"/>
+            <Element column="1" connect_to="2,4" id="3" row="2" type="1" value="1"/>
+            <Element column="2" connect_to="3,5" id="4" row="2" type="1" value="1"/>
+            <Element column="3" connect_to="4,6" id="5" row="2" type="1" value="2"/>
+            <Element column="3" connect_to="5,7" id="6" row="1" type="1" value="2"/>
+            <Element column="3" connect_to="6" id="7" row="0" type="1" value="4"/>
+        </Elements>
+    </Puzzle>
+
+    <Puzzle name="Puzzle 1		23" id="2">
+        <Elements>
+            <Element column="0" connect_to="1" id="0" row="0" type="1" value="3"/>
+            <Element column="0" connect_to="0,2" id="1" row="1" type="1" value="2"/>
+            <Element column="1" connect_to="1,3" id="2" row="1" type="1" value="2"/>
+            <Element column="1" connect_to="2,4" id="3" row="2" type="1" value="1"/>
+            <Element column="2" connect_to="3,5" id="4" row="2" type="1" value="4"/>
+            <Element column="3" connect_to="4,6" id="5" row="2" type="1" value="4"/>
+            <Element column="3" connect_to="5,7" id="6" row="3" type="1" value="1"/>
+            <Element column="4" connect_to="6,8" id="7" row="3" type="1" value="3"/>
+            <Element column="4" connect_to="7" id="8" row="4" type="1" value="2"/>
+        </Elements>
+    </Puzzle>
+
+    <Puzzle name="Puzzle 1		27" id="6">
+        <Elements>
+            <Element column="0" connect_to="1" id="0" row="0" type="1" value="5"/>
+            <Element column="1" connect_to="0,3" id="1" row="0" type="1" value="1"/>
+            <Element column="1" connect_to="5" id="2" row="4" type="1" value="1"/>
+            <Element column="2" connect_to="1,4,12" id="3" row="0" type="1" value="1"/>
+            <Element column="2" connect_to="3,6" id="4" row="1" type="1" value="1"/>
+            <Element column="2" connect_to="2,9" id="5" row="4" type="1" value="1"/>
+            <Element column="3" connect_to="4,7,12" id="6" row="1" type="1" value="4"/>
+            <Element column="3" connect_to="6,8" id="7" row="2" type="3" value="0"/>
+            <Element column="3" connect_to="7,10" id="8" row="3" type="1" value="1"/>
+            <Element column="3" connect_to="5,11" id="9" row="4" type="1" value="1"/>
+            <Element column="4" connect_to="8,11" id="10" row="3" type="1" value="1"/>
+            <Element column="4" connect_to="9,10" id="11" row="4" type="1" value="1"/>
+            <Element column="3" connect_to="3,6" id="12" row="0" type="1" value="1"/>
+        </Elements>
+    </Puzzle>
+
+    <Puzzle name="Puzzle 1		30" id="9">
+        <Elements>
+            <Element column="0" connect_to="1" id="0" row="0" type="1" value="1"/>
+            <Element column="0" connect_to="0,2" id="1" row="1" type="1" value="2"/>
+            <Element column="0" connect_to="1,3" id="2" row="2" type="3" value="0"/>
+            <Element column="0" connect_to="2,4,5" id="3" row="3" type="1" value="1"/>
+            <Element column="0" connect_to="3" id="4" row="4" type="1" value="1"/>
+            <Element column="1" connect_to="3,6" id="5" row="3" type="1" value="3"/>
+            <Element column="2" connect_to="5,7" id="6" row="3" type="1" value="1"/>
+            <Element column="3" connect_to="6" id="7" row="3" type="1" value="2"/>
+            <Element column="1" connect_to="9,10" id="8" row="2" type="1" value="2"/>
+            <Element column="1" connect_to="8" id="9" row="1" type="1" value="4"/>
+            <Element column="2" connect_to="8,11" id="10" row="2" type="2" value="0"/>
+            <Element column="3" connect_to="10,12" id="11" row="2" type="1" value="4"/>
+            <Element column="3" connect_to="11,13" id="12" row="1" type="1" value="1"/>
+            <Element column="3" connect_to="12" id="13" row="0" type="1" value="1"/>
+        </Elements>
+    </Puzzle>
+
+    <Puzzle name="Puzzle 3" desciption="Pour Esmaeil Puzzle 3		11" id="2">
+        <Elements>
+            <Element column="0" connect_to="1,5" id="0" row="0" type="1" value="1"/>
+            <Element column="0" connect_to="0" id="1" row="1" type="1" value="1"/>
+            <Element column="0" connect_to="3" id="2" row="2" type="1" value="4"/>
+            <Element column="1" connect_to="0,4,6" id="5" row="0" type="1" value="2"/>
+            <Element column="1" connect_to="3,5" id="4" row="1" type="3" value="0"/>
+            <Element column="1" connect_to="2,4,9" id="3" row="2" type="1" value="2"/>
+            <Element column="2" connect_to="5,7" id="6" row="0" type="1" value="3"/>
+            <Element column="2" connect_to="6,8,9" id="7" row="1" type="1" value="1"/>
+            <Element column="2" connect_to="7,3" id="9" row="2" type="1" value="1"/>
+            <Element column="3" connect_to="7" id="8" row="1" type="1" value="1"/>
+        </Elements>
+    </Puzzle>
+
+    <Puzzle name="Puzzle 1		25" id="4">
+        <Elements>
+            <Element column="0" connect_to="2" id="0" row="0" type="1" value="8"/>
+            <Element column="0" connect_to="3" id="1" row="4" type="1" value="3"/>
+            <Element column="1" connect_to="0,4" id="2" row="0" type="1" value="3"/>
+            <Element column="1" connect_to="1,5" id="3" row="4" type="1" value="2"/>
+            <Element column="2" connect_to="2,6" id="4" row="0" type="1" value="2"/>
+            <Element column="2" connect_to="3,7" id="5" row="4" type="1" value="4"/>
+            <Element column="3" connect_to="4,8" id="6" row="0" type="1" value="3"/>
+            <Element column="3" connect_to="5,12,13" id="7" row="4" type="1" value="1"/>
+            <Element column="4" connect_to="6,9" id="8" row="0" type="1" value="5"/>
+            <Element column="4" connect_to="8,10" id="9" row="1" type="1" value="4"/>
+            <Element column="4" connect_to="9,11" id="10" row="2" type="3" value="0"/>
+            <Element column="4" connect_to="10,12,13" id="11" row="3" type="1" value="5"/>
+            <Element column="4" connect_to="7,11,13" id="12" row="4" type="1" value="3"/>
+            <Element column="3" connect_to="7,11,12" id="13" row="3" type="1" value="2"/>
+        </Elements>
+    </Puzzle>
+
+    <Puzzle name="Puzzle 1		26" id="5">
+        <Elements>
+            <Element column="0" connect_to="1" id="0" row="0" type="1" value="5"/>
+            <Element column="0" connect_to="0,2" id="1" row="1" type="1" value="2"/>
+            <Element column="1" connect_to="1,3" id="2" row="1" type="1" value="3"/>
+            <Element column="1" connect_to="2,4,7" id="3" row="2" type="1" value="1"/>
+            <Element column="1" connect_to="8" id="4" row="3" type="1" value="4"/>
+            <Element column="2" connect_to="6" id="5" row="0" type="1" value="3"/>
+            <Element column="2" connect_to="5,7,10" id="6" row="1" type="1" value="1"/>
+            <Element column="2" connect_to="3,6,8,11" id="7" row="2" type="1" value="4"/>
+            <Element column="2" connect_to="4,7,9" id="8" row="3" type="1" value="3"/>
+            <Element column="2" connect_to="8" id="9" row="4" type="1" value="1"/>
+            <Element column="3" connect_to="6" id="10" row="1" type="1" value="4"/>
+            <Element column="3" connect_to="7,12" id="11" row="2" type="1" value="2"/>
+            <Element column="3" connect_to="11,13" id="12" row="3" type="1" value="2"/>
+            <Element column="4" connect_to="12,14" id="13" row="3" type="1" value="6"/>
+            <Element column="4" connect_to="13" id="14" row="4" type="1" value="8"/>
+        </Elements>
+    </Puzzle>
+
+    <Puzzle name="Puzzle 1		35" id="14">
+        <Elements>
+            <Element column="0" connect_to="1,3" id="0" row="0" type="1" value="4"/>
+            <Element column="0" connect_to="0,4" id="1" row="1" type="1" value="6"/>
+            <Element column="0" connect_to="6" id="2" row="3" type="1" value="3"/>
+            <Element column="1" connect_to="0,4,8" id="3" row="0" type="1" value="1"/>
+            <Element column="1" connect_to="1,3,5" id="4" row="1" type="1" value="1"/>
+            <Element column="1" connect_to="4,6,9" id="5" row="2" type="3" value="0"/>
+            <Element column="1" connect_to="2,5,7" id="6" row="3" type="1" value="5"/>
+            <Element column="1" connect_to="6,11" id="7" row="4" type="1" value="1"/>
+            <Element column="2" connect_to="3" id="8" row="0" type="1" value="1"/>
+            <Element column="2" connect_to="5,10" id="9" row="2" type="1" value="4"/>
+            <Element column="2" connect_to="9,11,12" id="10" row="3" type="1" value="3"/>
+            <Element column="2" connect_to="7,10" id="11" row="4" type="1" value="2"/>
+            <Element column="3" connect_to="10,15" id="12" row="3" type="2" value="0"/>
+            <Element column="4" connect_to="14" id="13" row="1" type="1" value="3"/>
+            <Element column="4" connect_to="13,15,19" id="14" row="2" type="1" value="1"/>
+            <Element column="4" connect_to="12,14,16" id="15" row="3" type="1" value="4"/>
+            <Element column="4" connect_to="15,17" id="16" row="4" type="1" value="2"/>
+            <Element column="4" connect_to="16,18" id="17" row="5" type="1" value="1"/>
+            <Element column="4" connect_to="17" id="18" row="6" type="1" value="3"/>
+            <Element column="5" connect_to="14" id="19" row="2" type="1" value="2"/>
+        </Elements>
+    </Puzzle>
+
+    <Puzzle name="Puzzle 25			41" id="0">
+        <Elements>
+            <Element column="0" connect_to="1,3" id="0" row="0" type="1" value="1"/>
+            <Element column="0" connect_to="0,2" id="1" row="1" type="1" value="1"/>
+            <Element column="0" connect_to="1,4" id="2" row="2" type="1" value="1"/>
+
+            <Element column="1" connect_to="0,5" id="3" row="0" type="1" value="-1"/>
+            <Element column="1" connect_to="2,7" id="4" row="2" type="1" value="1"/>
+
+            <Element column="2" connect_to="3,6" id="5" row="0" type="1" value="2"/>
+            <Element column="2" connect_to="5,7" id="6" row="1" type="3" value="0"/>
+            <Element column="2" connect_to="4,6,8" id="7" row="2" type="1" value="2"/>
+
+            <Element column="3" connect_to="7,9" id="8" row="2" type="1" value="1"/>
+            <Element column="3" connect_to="8,11" id="9" row="3" type="1" value="1"/>
+
+            <Element column="4" connect_to="12" id="10" row="0" type="1" value="-1"/>
+            <Element column="4" connect_to="9,15" id="11" row="3" type="1" value="-2"/>
+
+            <Element column="5" connect_to="10,13,16" id="12" row="0" type="1" value="1"/>
+            <Element column="5" connect_to="12,14" id="13" row="1" type="3" value="0"/>
+            <Element column="5" connect_to="13,15" id="14" row="2" type="1" value="-1"/>
+            <Element column="5" connect_to="11,14,18" id="15" row="3" type="1" value="3"/>
+
+            <Element column="6" connect_to="12" id="16" row="0" type="1" value="1"/>
+            <Element column="6" connect_to="18" id="17" row="2" type="1" value="1"/>
+            <Element column="6" connect_to="15,17" id="18" row="3" type="1" value="1"/>
+        </Elements>
+    </Puzzle>
+
+    <Puzzle name="Puzzle 1" desciption="Pour Esmaeil Puzzle 1	9" id="0">
+        <Elements>
+            <Element column="0" connect_to="1" id="0" row="0" type="1" value="3"/>
+            <Element column="0" connect_to="0,2,3" id="1" row="1" type="1" value="2"/>
+            <Element column="0" connect_to="1" id="2" row="2" type="1" value="6"/>
+            <Element column="1" connect_to="1,5" id="3" row="1" type="1" value="1"/>
+            <Element column="2" connect_to="5" id="4" row="0" type="1" value="2"/>
+            <Element column="2" connect_to="3,4,6,7" id="5" row="1" type="1" value="1"/>
+            <Element column="2" connect_to="5" id="6" row="2" type="1" value="4"/>
+            <Element column="3" connect_to="5,8" id="7" row="1" type="1" value="2"/>
+            <Element column="3" connect_to="7" id="8" row="2" type="1" value="2"/>
+        </Elements>
+    </Puzzle>
+
+    <Puzzle name="Puzzle 1" desciption="ME 1	19" id="0">
+        <Elements>
+            <Element column="0" connect_to="1" id="0" row="0" type="1" value="6"/>
+            <Element column="0" connect_to="0,2,4" id="1" row="1" type="1" value="1"/>
+            <Element column="0" connect_to="1,3" id="2" row="2" type="1" value="2"/>
+            <Element column="0" connect_to="2,5" id="3" row="3" type="1" value="3"/>
+            <Element column="1" connect_to="1,6" id="4" row="1" type="2" value="0"/>
+            <Element column="1" connect_to="3,8" id="5" row="3" type="2" value="0"/>
+            <Element column="2" connect_to="4,7,9" id="6" row="1" type="1" value="2"/>
+            <Element column="2" connect_to="6,8,10" id="7" row="2" type="1" value="2"/>
+            <Element column="2" connect_to="5,7,11" id="8" row="3" type="1" value="4"/>
+            <Element column="3" connect_to="6" id="9" row="1" type="1" value="4"/>
+            <Element column="3" connect_to="7,11,13" id="10" row="2" type="1" value="1"/>
+            <Element column="3" connect_to="8,10,12" id="11" row="3" type="1" value="2"/>
+            <Element column="3" connect_to="11" id="12" row="4" type="1" value="1"/>
+            <Element column="4" connect_to="10" id="13" row="2" type="1" value="2"/>
+        </Elements>
+    </Puzzle>
+
+    <Puzzle name="Puzzle 9	1" id="0">
+        <Elements>
+            <Element column="0" connect_to="1,4" id="0" row="2" type="1" value="1"/>
+            <Element column="0" connect_to="0,2,5" id="1" row="3" type="1" value="3"/>
+            <Element column="0" connect_to="1" id="2" row="4" type="1" value="2"/>
+            <Element column="1" connect_to="4,6" id="3" row="1" type="1" value="1"/>
+            <Element column="1" connect_to="0,3,5,9" id="4" row="2" type="1" value="2"/>
+            <Element column="1" connect_to="1,4,7" id="5" row="3" type="1" value="1"/>
+            <Element column="2" connect_to="3,8" id="6" row="1" type="2" value="0"/>
+            <Element column="2" connect_to="5,10" id="7" row="3" type="1" value="2"/>
+            <Element column="3" connect_to="6,9,12" id="8" row="1" type="1" value="3"/>
+            <Element column="3" connect_to="4,8,10" id="9" row="2" type="3" value="0"/>
+            <Element column="3" connect_to="7,9" id="10" row="3" type="1" value="2"/>
+            <Element column="4" connect_to="12,13" id="11" row="0" type="1" value="1"/>
+            <Element column="4" connect_to="8,11,14" id="12" row="1" type="1" value="2"/>
+            <Element column="5" connect_to="11" id="13" row="0" type="1" value="3"/>
+            <Element column="5" connect_to="12" id="14" row="1" type="1" value="1"/>
+        </Elements>
+    </Puzzle>
+
+    <Puzzle name="Puzzle 10	2" id="0">
+        <Elements>
+            <Element column="0" connect_to="1,5" id="0" row="0" type="1" value="2"/>
+            <Element column="0" connect_to="0,2" id="1" row="1" type="1" value="2"/>
+            <Element column="0" connect_to="1,3" id="2" row="2" type="1" value="-1"/>
+            <Element column="0" connect_to="2,4" id="3" row="3" type="1" value="2"/>
+            <Element column="0" connect_to="3,9" id="4" row="4" type="1" value="2"/>
+            <Element column="1" connect_to="0,6,10" id="5" row="0" type="1" value="-1"/>
+            <Element column="1" connect_to="5,7,11" id="6" row="1" type="1" value="1"/>
+            <Element column="1" connect_to="6,8" id="7" row="2" type="3" value="0"/>
+            <Element column="1" connect_to="7,13" id="8" row="3" type="1" value="3"/>
+            <Element column="1" connect_to="4,14" id="9" row="4" type="1" value="1"/>
+            <Element column="2" connect_to="5,15" id="10" row="0" type="1" value="1"/>
+            <Element column="2" connect_to="6,16" id="11" row="1" type="1" value="2"/>
+            <Element column="2" connect_to="17" id="12" row="2" type="1" value="2"/>
+            <Element column="2" connect_to="8,18" id="13" row="3" type="1" value="1"/>
+            <Element column="2" connect_to="9,19" id="14" row="4" type="2" value="0"/>
+            <Element column="3" connect_to="10,20" id="15" row="0" type="1" value="1"/>
+            <Element column="3" connect_to="11,21" id="16" row="1" type="1" value="1"/>
+            <Element column="3" connect_to="12,18" id="17" row="2" type="1" value="1"/>
+            <Element column="3" connect_to="13,17" id="18" row="3" type="1" value="2"/>
+            <Element column="3" connect_to="14,24" id="19" row="4" type="1" value="3"/>
+            <Element column="4" connect_to="15" id="20" row="0" type="1" value="2"/>
+            <Element column="4" connect_to="16,22" id="21" row="1" type="1" value="2"/>
+            <Element column="4" connect_to="21,23" id="22" row="2" type="1" value="1"/>
+            <Element column="4" connect_to="22,24" id="23" row="3" type="1" value="1"/>
+            <Element column="4" connect_to="19,23" id="24" row="4" type="1" value="1"/>
+        </Elements>
+    </Puzzle>
+    <Puzzle name="Puzzle 16		8" id="0">
+        <Elements>
+            <Element column="0" connect_to="2" id="0" row="1" type="1" value="2"/>
+            <Element column="1" connect_to="4" id="1" row="0" type="1" value="1"/>
+            <Element column="1" connect_to="0,3,5" id="2" row="1" type="1" value="2"/>
+            <Element column="1" connect_to="2,6" id="3" row="2" type="1" value="1"/>
+            <Element column="2" connect_to="1,5,7" id="4" row="0" type="1" value="2"/>
+            <Element column="2" connect_to="2,4,6,8" id="5" row="1" type="3" value="0"/>
+            <Element column="2" connect_to="3,5,9" id="6" row="2" type="1" value="1"/>
+            <Element column="3" connect_to="4,8,10" id="7" row="0" type="1" value="-3"/>
+            <Element column="3" connect_to="5,7" id="8" row="1" type="1" value="1"/>
+            <Element column="3" connect_to="6" id="9" row="2" type="1" value="1"/>
+            <Element column="4" connect_to="7" id="10" row="0" type="1" value="4"/>
+        </Elements>
+    </Puzzle>
+
+    <Puzzle name="Puzzle 2" desciption="Pour Esmaeil Puzzle 2		10" id="1">
+        <Elements>
+            <Element column="0" connect_to="1,9" id="0" row="0" type="1" value="1"/>
+            <Element column="0" connect_to="0,2,10" id="1" row="1" type="1" value="1"/>
+            <Element column="0" connect_to="1,3" id="2" row="2" type="1" value="3"/>
+            <Element column="0" connect_to="2,4" id="3" row="3" type="1" value="2"/>
+            <Element column="1" connect_to="0,10" id="9" row="0" type="1" value="1"/>
+            <Element column="1" connect_to="1,9" id="10" row="1" type="1" value="1"/>
+            <Element column="1" connect_to="4,7" id="6" row="2" type="1" value="3"/>
+            <Element column="1" connect_to="3,6" id="4" row="3" type="1" value="4"/>
+            <Element column="2" connect_to="7,12" id="11" row="1" type="1" value="5"/>
+            <Element column="2" connect_to="5,6,8,11" id="7" row="2" type="1" value="1"/>
+            <Element column="2" connect_to="7" id="5" row="3" type="1" value="1"/>
+            <Element column="3" connect_to="12" id="13" row="0" type="1" value="8"/>
+            <Element column="3" connect_to="11,13" id="12" row="1" type="1" value="3"/>
+            <Element column="3" connect_to="7" id="8" row="2" type="1" value="2"/>
+        </Elements>
+    </Puzzle>
+
+    <Puzzle name="Puzzle 4" desciption="Pour Esmaeil Puzzle 4		12" id="3">
+        <Elements>
+            <Element column="0" connect_to="2" id="1" row="1" type="1" value="1"/>
+            <Element column="0" connect_to="6" id="5" row="3" type="1" value="2"/>
+            <Element column="1" connect_to="2" id="0" row="0" type="1" value="4"/>
+            <Element column="1" connect_to="0,1,3,4" id="2" row="1" type="1" value="1"/>
+            <Element column="1" connect_to="2,6" id="4" row="2" type="3" value="0"/>
+            <Element column="1" connect_to="4,5,7,8" id="6" row="3" type="1" value="1"/>
+            <Element column="1" connect_to="6" id="8" row="4" type="1" value="5"/>
+            <Element column="2" connect_to="2" id="3" row="1" type="1" value="3"/>
+            <Element column="2" connect_to="6" id="7" row="3" type="1" value="1"/>
+        </Elements>
+    </Puzzle>
+    <Puzzle name="Puzzle 5" desciption="Pour Esmaeil Puzzle 5		13" id="4">
+        <Elements>
+            <Element column="0" connect_to="1,4" id="0" row="0" type="1" value="2"/>
+            <Element column="0" connect_to="0,2" id="1" row="1" type="1" value="2"/>
+            <Element column="0" connect_to="1,3" id="2" row="2" type="1" value="1"/>
+            <Element column="0" connect_to="2" id="3" row="3" type="1" value="3"/>
+            <Element column="1" connect_to="0,5" id="4" row="0" type="1" value="3"/>
+            <Element column="1" connect_to="4,6" id="5" row="1" type="1" value="1"/>
+            <Element column="1" connect_to="5,7,10" id="6" row="2" type="1" value="4"/>
+            <Element column="1" connect_to="6,11" id="7" row="3" type="1" value="2"/>
+            <Element column="1" connect_to="12" id="8" row="4" type="1" value="3"/>
+            <Element column="2" connect_to="13" id="9" row="1" type="1" value="2"/>
+            <Element column="2" connect_to="6,11" id="10" row="2" type="1" value="1"/>
+            <Element column="2" connect_to="7,10" id="11" row="3" type="1" value="3"/>
+            <Element column="2" connect_to="8,16" id="12" row="4" type="1" value="1"/>
+            <Element column="3" connect_to="9,14" id="13" row="1" type="1" value="2"/>
+            <Element column="3" connect_to="15,13" id="14" row="2" type="1" value="3"/>
+            <Element column="3" connect_to="14,16" id="15" row="3" type="1" value="1"/>
+            <Element column="3" connect_to="12,15" id="16" row="4" type="1" value="1"/>
+        </Elements>
+    </Puzzle>
+
+    <Puzzle name="Puzzle 1" desciption="ME 1	17" id="0">
+        <Elements>
+            <Element column="0" connect_to="2" id="0" row="0" type="1" value="1"/>
+            <Element column="0" connect_to="4" id="1" row="2" type="1" value="2"/>
+            <Element column="1" connect_to="0,3,5" id="2" row="0" type="1" value="2"/>
+            <Element column="1" connect_to="2,4" id="3" row="1" type="1" value="2"/>
+            <Element column="1" connect_to="1,3,7" id="4" row="2" type="1" value="3"/>
+            <Element column="2" connect_to="2,6,8" id="5" row="0" type="1" value="1"/>
+            <Element column="2" connect_to="5,7,9" id="6" row="1" type="1" value="4"/>
+            <Element column="2" connect_to="4,6,10" id="7" row="2" type="1" value="3"/>
+            <Element column="3" connect_to="8" id="8" row="0" type="1" value="1"/>
+            <Element column="3" connect_to="6,10" id="9" row="1" type="1" value="1"/>
+            <Element column="3" connect_to="7,9" id="10" row="2" type="1" value="1"/>
+        </Elements>
+    </Puzzle>
+
+    <Puzzle name="Puzzle 1" desciption="ME 1	18" id="0">
+        <Elements>
+            <Element column="0" connect_to="1" id="0" row="0" type="1" value="2"/>
+            <Element column="0" connect_to="0,2" id="1" row="1" type="1" value="3"/>
+            <Element column="0" connect_to="1,5" id="2" row="2" type="1" value="5"/>
+            <Element column="1" connect_to="4,6" id="3" row="0" type="1" value="3"/>
+            <Element column="1" connect_to="3,7" id="4" row="1" type="1" value="1"/>
+            <Element column="1" connect_to="2,8" id="5" row="2" type="2" value="0"/>
+            <Element column="2" connect_to="3,7" id="6" row="0" type="1" value="2"/>
+            <Element column="2" connect_to="4,6,8,9" id="7" row="1" type="1" value="2"/>
+            <Element column="2" connect_to="5,7,10" id="8" row="2" type="1" value="1"/>
+            <Element column="3" connect_to="7,11" id="9" row="1" type="1" value="2"/>
+            <Element column="3" connect_to="8,12" id="10" row="2" type="1" value="1"/>
+            <Element column="4" connect_to="9" id="11" row="1" type="1" value="6"/>
+            <Element column="4" connect_to="10" id="12" row="2" type="1" value="4"/>
+        </Elements>
+    </Puzzle>
+
+    <Puzzle name="Puzzle 1" desciption="ME 1	20" id="0">
+        <Elements>
+            <Element column="0" connect_to="1,5" id="0" row="0" type="1" value="1"/>
+            <Element column="0" connect_to="0,2,6" id="1" row="1" type="1" value="1"/>
+            <Element column="0" connect_to="1,7" id="2" row="2" type="1" value="1"/>
+            <Element column="0" connect_to="4,8" id="3" row="4" type="1" value="3"/>
+            <Element column="0" connect_to="3,9" id="4" row="5" type="1" value="2"/>
+            <Element column="1" connect_to="0,6" id="5" row="0" type="1" value="1"/>
+            <Element column="1" connect_to="1,5,7" id="6" row="1" type="1" value="1"/>
+            <Element column="1" connect_to="2,6,10" id="7" row="2" type="1" value="1"/>
+            <Element column="1" connect_to="3,9,12" id="8" row="4" type="1" value="1"/>
+            <Element column="1" connect_to="4,8" id="9" row="5" type="1" value="1"/>
+            <Element column="2" connect_to="7,11,13" id="10" row="2" type="1" value="1"/>
+            <Element column="2" connect_to="10,12,14" id="11" row="3" type="1" value="1"/>
+            <Element column="2" connect_to="8,11,14" id="12" row="4" type="1" value="1"/>
+            <Element column="3" connect_to="10,14" id="13" row="2" type="1" value="2"/>
+            <Element column="3" connect_to="11,13" id="14" row="3" type="1" value="3"/>
+        </Elements>
+    </Puzzle>
+
+    <Puzzle name="Puzzle 1		24" id="3">
+        <Elements>
+            <Element column="0" connect_to="1" id="0" row="0" type="1" value="3"/>
+            <Element column="0" connect_to="0,2,4" id="1" row="1" type="1" value="1"/>
+            <Element column="0" connect_to="1,3" id="2" row="2" type="1" value="1"/>
+            <Element column="0" connect_to="2,7" id="3" row="3" type="1" value="2"/>
+            <Element column="1" connect_to="1,5" id="4" row="1" type="1" value="2"/>
+            <Element column="2" connect_to="4,6" id="5" row="1" type="1" value="2"/>
+            <Element column="2" connect_to="5,8" id="6" row="2" type="1" value="3"/>
+            <Element column="1" connect_to="3,9" id="7" row="3" type="1" value="2"/>
+            <Element column="2" connect_to="6,10,11" id="8" row="3" type="1" value="1"/>
+            <Element column="1" connect_to="7,10" id="9" row="4" type="1" value="4"/>
+            <Element column="2" connect_to="8,9" id="10" row="4" type="1" value="3"/>
+            <Element column="3" connect_to="8,13,12" id="11" row="3" type="1" value="2"/>
+            <Element column="3" connect_to="11" id="12" row="4" type="1" value="4"/>
+            <Element column="4" connect_to="11" id="13" row="3" type="1" value="1"/>
+        </Elements>
+    </Puzzle>
+
+    <Puzzle name="Puzzle 1		29" id="8">
+        <Elements>
+            <Element column="0" connect_to="1" id="0" row="0" type="1" value="1"/>
+            <Element column="0" connect_to="0,2" id="1" row="1" type="1" value="5"/>
+            <Element column="0" connect_to="1,3" id="2" row="2" type="1" value="2"/>
+            <Element column="1" connect_to="2,4" id="3" row="2" type="1" value="3"/>
+            <Element column="2" connect_to="3,7" id="4" row="2" type="2" value="0"/>
+            <Element column="2" connect_to="8" id="5" row="3" type="1" value="1"/>
+            <Element column="3" connect_to="7,9" id="6" row="1" type="1" value="1"/>
+            <Element column="3" connect_to="4,6,8" id="7" row="2" type="1" value="2"/>
+            <Element column="3" connect_to="5,7" id="8" row="3" type="1" value="2"/>
+            <Element column="4" connect_to="6,10" id="9" row="1" type="1" value="1"/>
+            <Element column="4" connect_to="9,11" id="10" row="2" type="1" value="4"/>
+            <Element column="4" connect_to="10,12" id="11" row="3" type="1" value="1"/>
+            <Element column="4" connect_to="11" id="12" row="4" type="1" value="4"/>
+        </Elements>
+    </Puzzle>
+
+    <Puzzle name="Puzzle 1		32" id="11">
+        <Elements>
+            <Element column="0" connect_to="1,2" id="0" row="0" type="1" value="1"/>
+            <Element column="0" connect_to="0,3" id="1" row="1" type="1" value="2"/>
+            <Element column="1" connect_to="0,3" id="2" row="0" type="1" value="2"/>
+            <Element column="1" connect_to="1,2,4" id="3" row="1" type="1" value="1"/>
+            <Element column="1" connect_to="3,5,6" id="4" row="2" type="1" value="2"/>
+            <Element column="1" connect_to="4,7" id="5" row="3" type="1" value="1"/>
+            <Element column="2" connect_to="4,7,9" id="6" row="2" type="1" value="1"/>
+            <Element column="2" connect_to="5,6" id="7" row="3" type="1" value="2"/>
+            <Element column="3" connect_to="9,10" id="8" row="1" type="1" value="2"/>
+            <Element column="3" connect_to="6,8,11" id="9" row="2" type="1" value="2"/>
+            <Element column="4" connect_to="8,11" id="10" row="1" type="1" value="4"/>
+            <Element column="4" connect_to="9,10,12" id="11" row="2" type="1" value="3"/>
+            <Element column="4" connect_to="11,13,15" id="12" row="3" type="3" value="0"/>
+            <Element column="4" connect_to="12,14,16" id="13" row="4" type="1" value="4"/>
+            <Element column="4" connect_to="13" id="14" row="5" type="1" value="2"/>
+            <Element column="5" connect_to="12,16" id="15" row="3" type="1" value="5"/>
+            <Element column="5" connect_to="13,15" id="16" row="4" type="1" value="2"/>
+        </Elements>
+    </Puzzle>
+
+    <Puzzle name="Puzzle 1		34" id="13">
+        <Elements>
+            <Element column="0" connect_to="1,2" id="0" row="0" type="1" value="3"/>
+            <Element column="0" connect_to="0" id="1" row="1" type="1" value="5"/>
+            <Element column="1" connect_to="0,3" id="2" row="0" type="1" value="1"/>
+            <Element column="1" connect_to="2,4,7" id="3" row="1" type="1" value="1"/>
+            <Element column="1" connect_to="3,5,8" id="4" row="2" type="1" value="1"/>
+            <Element column="1" connect_to="4" id="5" row="3" type="1" value="3"/>
+            <Element column="2" connect_to="7,11" id="6" row="0" type="1" value="1"/>
+            <Element column="2" connect_to="3,6,8,12" id="7" row="1" type="1" value="2"/>
+            <Element column="2" connect_to="4,7,13" id="8" row="2" type="1" value="1"/>
+            <Element column="2" connect_to="10,14" id="9" row="3" type="1" value="1"/>
+            <Element column="2" connect_to="9" id="10" row="4" type="1" value="3"/>
+            <Element column="3" connect_to="6" id="11" row="0" type="1" value="1"/>
+            <Element column="3" connect_to="7,13,15" id="12" row="1" type="1" value="2"/>
+            <Element column="3" connect_to="8,12,14" id="13" row="2" type="1" value="1"/>
+            <Element column="3" connect_to="9,13" id="14" row="3" type="1" value="2"/>
+            <Element column="4" connect_to="12" id="15" row="1" type="1" value="6"/>
+        </Elements>
+    </Puzzle>
+
+    <Puzzle name="Puzzle 20		36" id="0">
+        <Elements>
+            <Element column="0" connect_to="1" id="0" row="0" type="1" value="1"/>
+
+            <Element column="1" connect_to="0,3" id="1" row="0" type="1" value="1"/>
+            <Element column="1" connect_to="4" id="2" row="3" type="1" value="1"/>
+
+            <Element column="2" connect_to="1,7" id="3" row="0" type="1" value="1"/>
+            <Element column="2" connect_to="2,5,10" id="4" row="3" type="1" value="2"/>
+            <Element column="2" connect_to="4" id="5" row="4" type="1" value="1"/>
+            <Element column="2" connect_to="12" id="6" row="5" type="1" value="1"/>
+
+            <Element column="3" connect_to="3,8,13" id="7" row="0" type="1" value="1"/>
+            <Element column="3" connect_to="7,9" id="8" row="1" type="1" value="3"/>
+            <Element column="3" connect_to="8,10" id="9" row="2" type="3" value="0"/>
+            <Element column="3" connect_to="4,9,11,16" id="10" row="3" type="1" value="3"/>
+            <Element column="3" connect_to="10" id="11" row="4" type="1" value="1"/>
+            <Element column="3" connect_to="6,18" id="12" row="5" type="1" value="1"/>
+
+            <Element column="4" connect_to="7,14" id="13" row="0" type="1" value="1"/>
+            <Element column="4" connect_to="13,19" id="14" row="1" type="1" value="1"/>
+            <Element column="4" connect_to="20" id="15" row="2" type="1" value="2"/>
+            <Element column="4" connect_to="10" id="16" row="3" type="1" value="-1"/>
+            <Element column="4" connect_to="18,22" id="17" row="4" type="1" value="1"/>
+            <Element column="4" connect_to="12,17" id="18" row="5" type="1" value="1"/>
+
+            <Element column="5" connect_to="14" id="19" row="1" type="1" value="1"/>
+            <Element column="5" connect_to="15,21" id="20" row="2" type="1" value="1"/>
+            <Element column="5" connect_to="20,22" id="21" row="3" type="1" value="1"/>
+            <Element column="5" connect_to="17,21" id="22" row="4" type="1" value="1"/>
+
+
+        </Elements>
+    </Puzzle>
+
+    <Puzzle name="Puzzle 23			39" id="0">
+        <Elements>
+            <Element column="0" connect_to="2" id="0" row="1" type="1" value="1"/>
+
+            <Element column="1" connect_to="2" id="1" row="0" type="1" value="-1"/>
+            <Element column="1" connect_to="0,1,3" id="2" row="1" type="1" value="-2"/>
+
+
+            <Element column="2" connect_to="2,4,6" id="3" row="1" type="1" value="2"/>
+            <Element column="2" connect_to="3" id="4" row="2" type="1" value="-3"/>
+            <Element column="2" connect_to="8" id="5" row="3" type="1" value="2"/>
+
+            <Element column="3" connect_to="3,9" id="6" row="1" type="1" value="-1"/>
+            <Element column="3" connect_to="8,10" id="7" row="2" type="1" value="1"/>
+            <Element column="3" connect_to="5,7,11" id="8" row="3" type="1" value="1"/>
+
+            <Element column="4" connect_to="6,10" id="9" row="1" type="1" value="3"/>
+            <Element column="4" connect_to="7,9" id="10" row="2" type="1" value="1"/>
+            <Element column="4" connect_to="8,12,13" id="11" row="3" type="1" value="2"/>
+            <Element column="4" connect_to="11" id="12" row="4" type="1" value="-1"/>
+
+            <Element column="5" connect_to="11" id="13" row="3" type="1" value="3"/>
+
+        </Elements>
+    </Puzzle>
+
+    <Puzzle name="Puzzle 27			43" id="0">
+        <Elements>
+            <Element column="0" connect_to="2" id="0" row="1" type="1" value="2"/>
+            <Element column="0" connect_to="3" id="1" row="2" type="1" value="-2"/>
+
+            <Element column="1" connect_to="0,3" id="2" row="1" type="1" value="1"/>
+            <Element column="1" connect_to="1,2,5" id="3" row="2" type="1" value="1"/>
+            <Element column="1" connect_to="7" id="4" row="4" type="1" value="1"/>
+
+            <Element column="2" connect_to="3,8" id="5" row="2" type="1" value="1"/>
+            <Element column="2" connect_to="7,9" id="6" row="3" type="1" value="3"/>
+            <Element column="2" connect_to="4,6,10" id="7" row="4" type="1" value="1"/>
+
+            <Element column="3" connect_to="5,9,11" id="8" row="2" type="1" value="1"/>
+            <Element column="3" connect_to="8,6,10" id="9" row="3" type="1" value="1"/>
+            <Element column="3" connect_to="7,9,13" id="10" row="4" type="1" value="1"/>
+
+            <Element column="4" connect_to="8,16" id="11" row="2" type="1" value="2"/>
+            <Element column="4" connect_to="17" id="12" row="3" type="1" value="1"/>
+            <Element column="4" connect_to="10" id="13" row="4" type="1" value="4"/>
+
+            <Element column="5" connect_to="15" id="14" row="0" type="1" value="1"/>
+            <Element column="5" connect_to="14,16" id="15" row="1" type="1" value="1"/>
+            <Element column="5" connect_to="11,15,19" id="16" row="2" type="1" value="1"/>
+            <Element column="5" connect_to="12,18,20" id="17" row="3" type="1" value="1"/>
+            <Element column="5" connect_to="21" id="18" row="4" type="1" value="1"/>
+
+            <Element column="6" connect_to="16,22" id="19" row="2" type="1" value="3"/>
+            <Element column="6" connect_to="17,23" id="20" row="3" type="1" value="2"/>
+            <Element column="6" connect_to="18" id="21" row="4" type="1" value="1"/>
+
+
+        </Elements>
+    </Puzzle>
+
+    <Puzzle name="Puzzle 30		46" id="0">
+        <Elements>
+            <Element column="0" connect_to="1" id="0" row="0" type="1" value="1"/>
+            <Element column="0" connect_to="0,3" id="1" row="1" type="1" value="1"/>
+            <Element column="0" connect_to="4" id="2" row="2" type="1" value="1"/>
+
+            <Element column="1" connect_to="1,7" id="3" row="1" type="1" value="2"/>
+            <Element column="1" connect_to="2,5,8" id="4" row="2" type="1" value="1"/>
+            <Element column="1" connect_to="4,6" id="5" row="3" type="1" value="2"/>
+            <Element column="1" connect_to="5,10" id="6" row="4" type="1" value="1"/>
+
+            <Element column="2" connect_to="3,8" id="7" row="1" type="1" value="1"/>
+            <Element column="2" connect_to="4,7,9,13" id="8" row="2" type="1" value="1"/>
+            <Element column="2" connect_to="10,14" id="9" row="3" type="1" value="1"/>
+            <Element column="2" connect_to="6,9,11,15" id="10" row="4" type="1" value="2"/>
+            <Element column="2" connect_to="10,16" id="11" row="5" type="1" value="1"/>
+
+            <Element column="3" connect_to="13" id="12" row="1" type="1" value="1"/>
+            <Element column="3" connect_to="8,12,14,18" id="13" row="2" type="1" value="2"/>
+            <Element column="3" connect_to="9,13,19" id="14" row="3" type="1" value="1"/>
+            <Element column="3" connect_to="10,20" id="15" row="4" type="2" value="0"/>
+            <Element column="3" connect_to="11" id="16" row="5" type="1" value="2"/>
+
+            <Element column="4" connect_to="18" id="17" row="1" type="1" value="1"/>
+            <Element column="4" connect_to="13,17" id="18" row="2" type="1" value="3"/>
+            <Element column="4" connect_to="14" id="19" row="3" type="1" value="1"/>
+            <Element column="4" connect_to="15,22" id="20" row="4" type="1" value="3"/>
+
+            <Element column="5" connect_to="22" id="21" row="3" type="1" value="3"/>
+            <Element column="5" connect_to="20,21,23" id="22" row="4" type="1" value="1"/>
+
+            <Element column="6" connect_to="22" id="23" row="4" type="1" value="1"/>
+        </Elements>
+    </Puzzle>
+
+    <Puzzle name="Puzzle 1		33" id="12">
+        <Elements>
+            <Element column="0" connect_to="1" id="0" row="0" type="1" value="2"/>
+            <Element column="0" connect_to="0,2" id="1" row="1" type="1" value="5"/>
+            <Element column="1" connect_to="1,3,6" id="2" row="1" type="1" value="3"/>
+            <Element column="1" connect_to="2,4" id="3" row="2" type="3" value="0"/>
+            <Element column="1" connect_to="3,5,8" id="4" row="3" type="1" value="1"/>
+            <Element column="1" connect_to="4,9" id="5" row="4" type="1" value="2"/>
+            <Element column="2" connect_to="2" id="6" row="1" type="1" value="2"/>
+            <Element column="2" connect_to="8,11" id="7" row="2" type="1" value="1"/>
+            <Element column="2" connect_to="4,7" id="8" row="3" type="1" value="1"/>
+            <Element column="2" connect_to="5,12" id="9" row="4" type="1" value="3"/>
+            <Element column="3" connect_to="11,13" id="10" row="1" type="1" value="2"/>
+            <Element column="3" connect_to="7,10" id="11" row="2" type="1" value="2"/>
+            <Element column="3" connect_to="9,16" id="12" row="4" type="1" value="1"/>
+            <Element column="4" connect_to="10,14" id="13" row="1" type="1" value="3"/>
+            <Element column="4" connect_to="13,15,18" id="14" row="2" type="1" value="1"/>
+            <Element column="4" connect_to="14,16" id="15" row="3" type="3" value="0"/>
+            <Element column="4" connect_to="12,15" id="16" row="4" type="1" value="3"/>
+            <Element column="5" connect_to="18" id="17" row="1" type="1" value="2"/>
+            <Element column="5" connect_to="14,17" id="18" row="2" type="1" value="2"/>
+        </Elements>
+    </Puzzle>
+
+    <Puzzle name="Puzzle 28		44" id="0">
+        <Elements>
+            <Element column="0" connect_to="1,3" id="0" row="1" type="1" value="1"/>
+            <Element column="0" connect_to="0,4" id="1" row="2" type="1" value="3"/>
+
+            <Element column="1" connect_to="3" id="2" row="0" type="1" value="3"/>
+            <Element column="1" connect_to="0,2,4,5" id="3" row="1" type="1" value="2"/>
+            <Element column="1" connect_to="1,3" id="4" row="2" type="1" value="1"/>
+
+            <Element column="2" connect_to="3,9" id="5" row="1" type="2" value="0"/>
+            <Element column="2" connect_to="7" id="6" row="3" type="1" value="2"/>
+            <Element column="2" connect_to="6,12" id="7" row="4" type="1" value="1"/>
+
+            <Element column="3" connect_to="14" id="8" row="0" type="1" value="1"/>
+            <Element column="3" connect_to="5,10,15" id="9" row="1" type="1" value="5"/>
+            <Element column="3" connect_to="9,11,16" id="10" row="2" type="1" value="3"/>
+            <Element column="3" connect_to="10,12,17" id="11" row="3" type="3" value="0"/>
+            <Element column="3" connect_to="7,11,13,18" id="12" row="4" type="1" value="1"/>
+            <Element column="3" connect_to="12,19" id="13" row="5" type="1" value="-2"/>
+
+            <Element column="4" connect_to="8,15" id="14" row="0" type="1" value="1"/>
+            <Element column="4" connect_to="9,14,16,21" id="15" row="1" type="1" value="1"/>
+            <Element column="4" connect_to="10,15,17,22" id="16" row="2" type="1" value="3"/>
+            <Element column="4" connect_to="11,16,18,23" id="17" row="3" type="1" value="2"/>
+            <Element column="4" connect_to="12,19,24" id="18" row="4" type="1" value="4"/>
+            <Element column="4" connect_to="13,18" id="19" row="5" type="1" value="1"/>
+
+            <Element column="5" connect_to="21" id="20" row="0" type="1" value="1"/>
+            <Element column="5" connect_to="15,20" id="21" row="1" type="1" value="2"/>
+            <Element column="5" connect_to="16,23" id="22" row="2" type="1" value="3"/>
+            <Element column="5" connect_to="17,22" id="23" row="3" type="1" value="1"/>
+            <Element column="5" connect_to="18" id="24" row="4" type="1" value="1"/>
+
+        </Elements>
+    </Puzzle>
+
+    <Puzzle name="Puzzle 11	3" id="0">
+        <Elements>
+            <Element column="0" connect_to="1,4" id="0" row="0" type="1" value="1"/>
+            <Element column="0" connect_to="0,2,5" id="1" row="1" type="1" value="-1"/>
+            <Element column="0" connect_to="1,3" id="2" row="2" type="1" value="-1"/>
+            <Element column="0" connect_to="2,6" id="3" row="3" type="1" value="2"/>
+            <Element column="1" connect_to="0,7" id="4" row="0" type="2" value="0"/>
+            <Element column="1" connect_to="1,8" id="5" row="1" type="2" value="0"/>
+            <Element column="1" connect_to="3,10" id="6" row="3" type="1" value="1"/>
+            <Element column="2" connect_to="4,8" id="7" row="0" type="1" value="2"/>
+            <Element column="2" connect_to="5,7,9" id="8" row="1" type="1" value="1"/>
+            <Element column="2" connect_to="8,10" id="9" row="2" type="1" value="3"/>
+            <Element column="2" connect_to="6,9" id="10" row="3" type="1" value="3"/>
+        </Elements>
+    </Puzzle>
+
+    <Puzzle name="Puzzle 6" desciption="Pour Esmaeil Puzzle 6		14" id="5">
+        <Elements>
+            <Element column="0" connect_to="1" id="0" row="0" type="1" value="1"/>
+            <Element column="0" connect_to="0,6" id="1" row="1" type="1" value="3"/>
+            <Element column="0" connect_to="7" id="2" row="2" type="1" value="1"/>
+            <Element column="0" connect_to="4,8" id="3" row="3" type="1" value="3"/>
+            <Element column="0" connect_to="3,9" id="4" row="4" type="1" value="2"/>
+            <Element column="1" connect_to="6" id="5" row="0" type="1" value="1"/>
+            <Element column="1" connect_to="1,5,7,10" id="6" row="1" type="1" value="1"/>
+            <Element column="1" connect_to="2,6,8,11" id="7" row="2" type="1" value="3"/>
+            <Element column="1" connect_to="3,7,9" id="8" row="3" type="1" value="1"/>
+            <Element column="1" connect_to="4,8" id="9" row="4" type="1" value="1"/>
+            <Element column="2" connect_to="6,11" id="10" row="1" type="1" value="2"/>
+            <Element column="2" connect_to="7,10" id="11" row="2" type="1" value="1"/>
+        </Elements>
+    </Puzzle>
+
+    <Puzzle name="Puzzle 1		31" id="10">
+        <Elements>
+            <Element column="0" connect_to="1" id="0" row="0" type="1" value="1"/>
+            <Element column="1" connect_to="0,2,4" id="1" row="0" type="1" value="2"/>
+            <Element column="1" connect_to="1,3" id="2" row="1" type="3" value="0"/>
+            <Element column="1" connect_to="2,6" id="3" row="2" type="1" value="1"/>
+            <Element column="2" connect_to="1,5,7" id="4" row="0" type="1" value="3"/>
+            <Element column="2" connect_to="4,6" id="5" row="1" type="3" value="0"/>
+            <Element column="2" connect_to="3,5,9" id="6" row="2" type="1" value="2"/>
+            <Element column="3" connect_to="4,8" id="7" row="0" type="1" value="2"/>
+            <Element column="3" connect_to="7,9" id="8" row="1" type="3" value="0"/>
+            <Element column="3" connect_to="6,8,10,11" id="9" row="2" type="1" value="1"/>
+            <Element column="3" connect_to="9" id="10" row="3" type="1" value="2"/>
+            <Element column="4" connect_to="9" id="11" row="2" type="1" value="4"/>
+        </Elements>
+    </Puzzle>
+    <Puzzle name="Puzzle 21			37" id="0">
+        <Elements>
+            <Element column="0" connect_to="1" id="0" row="1" type="1" value="1"/>
+
+            <Element column="1" connect_to="0,6" id="1" row="1" type="1" value="1"/>
+            <Element column="1" connect_to="7" id="2" row="2" type="1" value="-1"/>
+            <Element column="1" connect_to="4" id="3" row="3" type="1" value="1"/>
+            <Element column="1" connect_to="3,9" id="4" row="4" type="1" value="1"/>
+
+            <Element column="2" connect_to="6,10" id="5" row="0" type="1" value="1"/>
+            <Element column="2" connect_to="1,5,7,11" id="6" row="1" type="1" value="1"/>
+            <Element column="2" connect_to="2,6,8,12" id="7" row="2" type="1" value="3"/>
+            <Element column="2" connect_to="7" id="8" row="3" type="1" value="1"/>
+            <Element column="2" connect_to="4,14" id="9" row="4" type="1" value="1"/>
+
+            <Element column="3" connect_to="5" id="10" row="0" type="1" value="1"/>
+            <Element column="3" connect_to="6,12" id="11" row="1" type="1" value="2"/>
+            <Element column="3" connect_to="7,11,15" id="12" row="2" type="1" value="-1"/>
+            <Element column="3" connect_to="14,16" id="13" row="3" type="1" value="1"/>
+            <Element column="3" connect_to="9,13" id="14" row="4" type="1" value="2"/>
+
+            <Element column="4" connect_to="12,16" id="15" row="2" type="1" value="5"/>
+            <Element column="4" connect_to="13,15,17" id="16" row="3" type="1" value="2"/>
+
+            <Element column="5" connect_to="16" id="17" row="3" type="1" value="1"/>
+
+
+        </Elements>
+    </Puzzle>
+
+
+    <Puzzle name="Puzzle 22		38" id="0">
+        <Elements>
+            <Element column="0" connect_to="1" id="0" row="0" type="1" value="1"/>
+
+            <Element column="1" connect_to="0,4" id="1" row="0" type="1" value="2"/>
+            <Element column="1" connect_to="3" id="2" row="1" type="1" value="1"/>
+            <Element column="1" connect_to="2,5" id="3" row="2" type="1" value="1"/>
+
+            <Element column="2" connect_to="1,6" id="4" row="0" type="1" value="1"/>
+            <Element column="2" connect_to="3,8" id="5" row="2" type="1" value="2"/>
+
+            <Element column="3" connect_to="4,7,10" id="6" row="0" type="1" value="-1"/>
+            <Element column="3" connect_to="6,8" id="7" row="1" type="3" value="0"/>
+            <Element column="3" connect_to="5,7,9,11" id="8" row="2" type="1" value="1"/>
+            <Element column="3" connect_to="8" id="9" row="3" type="1" value="3"/>
+
+            <Element column="4" connect_to="6" id="10" row="0" type="1" value="2"/>
+            <Element column="4" connect_to="8,12" id="11" row="2" type="1" value="1"/>
+
+            <Element column="5" connect_to="11,13,14" id="12" row="2" type="1" value="1"/>
+            <Element column="5" connect_to="15" id="13" row="3" type="1" value="1"/>
+
+            <Element column="6" connect_to="12" id="14" row="2" type="1" value="2"/>
+            <Element column="6" connect_to="13" id="15" row="3" type="1" value="3"/>
+        </Elements>
+    </Puzzle>
+
+
+    <Puzzle name="Puzzle 24		40" id="0">
+        <Elements>
+            <Element column="0" connect_to="1,2" id="0" row="0" type="1" value="1"/>
+            <Element column="0" connect_to="0" id="1" row="1" type="1" value="4"/>
+
+            <Element column="1" connect_to="0,5" id="2" row="0" type="1" value="2"/>
+            <Element column="1" connect_to="7" id="3" row="2" type="1" value="-1"/>
+            <Element column="1" connect_to="8" id="4" row="3" type="1" value="-2"/>
+
+            <Element column="2" connect_to="2,6" id="5" row="0" type="1" value="-3"/>
+            <Element column="2" connect_to="5,7" id="6" row="1" type="3" value="0"/>
+            <Element column="2" connect_to="3,6,8,10" id="7" row="2" type="1" value="1"/>
+            <Element column="2" connect_to="4,7,9" id="8" row="3" type="1" value="-1"/>
+            <Element column="2" connect_to="8,11" id="9" row="4" type="1" value="1"/>
+
+            <Element column="3" connect_to="7,13" id="10" row="2" type="1" value="1"/>
+            <Element column="3" connect_to="9" id="11" row="4" type="1" value="-2"/>
+
+            <Element column="4" connect_to="13,15" id="12" row="1" type="1" value="2"/>
+            <Element column="4" connect_to="10,12" id="13" row="2" type="1" value="1"/>
+            <Element column="4" connect_to="18" id="14" row="4" type="1" value="3"/>
+
+            <Element column="5" connect_to="12,16" id="15" row="1" type="1" value="2"/>
+            <Element column="5" connect_to="15,17" id="16" row="2" type="1" value="1"/>
+            <Element column="5" connect_to="16,18" id="17" row="3" type="3" value="0"/>
+            <Element column="5" connect_to="14,17,19" id="18" row="4" type="1" value="2"/>
+            <Element column="5" connect_to="18" id="19" row="5" type="1" value="1"/>
+        </Elements>
+    </Puzzle>
+
+    <Puzzle name="Puzzle 29		45" id="0">
+        <Elements>
+            <Element column="0" connect_to="1,3" id="0" row="1" type="1" value="1"/>
+            <Element column="0" connect_to="0,4" id="1" row="2" type="1" value="1"/>
+
+            <Element column="1" connect_to="3" id="2" row="0" type="1" value="1"/>
+            <Element column="1" connect_to="0,2,4,7" id="3" row="1" type="1" value="2"/>
+            <Element column="1" connect_to="1,3" id="4" row="2" type="1" value="1"/>
+            <Element column="1" connect_to="9" id="5" row="3" type="1" value="1"/>
+
+            <Element column="2" connect_to="10" id="6" row="0" type="1" value="2"/>
+            <Element column="2" connect_to="3,11" id="7" row="1" type="1" value="-1"/>
+            <Element column="2" connect_to="9,12" id="8" row="2" type="1" value="1"/>
+            <Element column="2" connect_to="5,8,13" id="9" row="3" type="1" value="1"/>
+
+            <Element column="3" connect_to="6,11" id="10" row="0" type="1" value="1"/>
+            <Element column="3" connect_to="7,10,12,15" id="11" row="1" type="1" value="3"/>
+            <Element column="3" connect_to="8,11,13,16" id="12" row="2" type="1" value="1"/>
+            <Element column="3" connect_to="9,12,17" id="13" row="3" type="1" value="3"/>
+
+            <Element column="4" connect_to="15" id="14" row="0" type="1" value="-2"/>
+            <Element column="4" connect_to="11,14,19" id="15" row="1" type="1" value="1"/>
+            <Element column="4" connect_to="12,17" id="16" row="2" type="1" value="1"/>
+            <Element column="4" connect_to="13,16" id="17" row="3" type="1" value="2"/>
+
+            <Element column="5" connect_to="19" id="18" row="0" type="1" value="2"/>
+            <Element column="5" connect_to="15,18" id="19" row="1" type="1" value="2"/>
+
+
+        </Elements>
+    </Puzzle>
+
+    <Puzzle name="Puzzle 13		5" id="0">
+        <Elements>
+            <Element column="0" connect_to="4" id="0" row="3" type="1" value="-2"/>
+            <Element column="1" connect_to="2" id="1" row="0" type="1" value="1"/>
+            <Element column="1" connect_to="1,3,6" id="2" row="1" type="1" value="3"/>
+            <Element column="1" connect_to="2,4" id="3" row="2" type="3" value="0"/>
+            <Element column="1" connect_to="0,3,5,8" id="4" row="3" type="1" value="1"/>
+            <Element column="1" connect_to="4" id="5" row="4" type="1" value="3"/>
+            <Element column="2" connect_to="2" id="6" row="1" type="1" value="2"/>
+            <Element column="2" connect_to="12" id="7" row="2" type="1" value="2"/>
+            <Element column="2" connect_to="4,9" id="8" row="3" type="1" value="1"/>
+            <Element column="2" connect_to="8,10" id="9" row="4" type="1" value="1"/>
+            <Element column="2" connect_to="9,15" id="-1" row="5" type="1" value="-1"/>
+            <Element column="3" connect_to="12" id="11" row="1" type="1" value="3"/>
+            <Element column="3" connect_to="7,11,13" id="12" row="2" type="1" value="-1"/>
+            <Element column="3" connect_to="12,14" id="13" row="3" type="1" value="3"/>
+            <Element column="3" connect_to="13,15" id="14" row="4" type="1" value="1"/>
+            <Element column="3" connect_to="14,10" id="15" row="5" type="1" value="1"/>
+        </Elements>
+    </Puzzle>
+
+    <Puzzle name="Puzzle 15		7" id="0">
+        <Elements>
+            <Element column="0" connect_to="1" id="0" row="0" type="1" value="-2"/>
+            <Element column="0" connect_to="0,2,5" id="1" row="1" type="1" value="1"/>
+            <Element column="0" connect_to="1,3" id="2" row="2" type="3" value="0"/>
+            <Element column="0" connect_to="2,4,7" id="3" row="3" type="1" value="1"/>
+            <Element column="0" connect_to="3,8" id="4" row="5" type="1" value="-1"/>
+            <Element column="1" connect_to="1,10" id="5" row="1" type="1" value="2"/>
+            <Element column="1" connect_to="11" id="6" row="2" type="1" value="2"/>
+            <Element column="1" connect_to="3,12" id="7" row="3" type="1" value="-2"/>
+            <Element column="1" connect_to="4,14" id="8" row="5" type="1" value="1"/>
+            <Element column="2" connect_to="15" id="9" row="0" type="1" value="-1"/>
+            <Element column="2" connect_to="5" id="10" row="1" type="1" value="1"/>
+            <Element column="2" connect_to="6,17" id="11" row="2" type="1" value="1"/>
+            <Element column="2" connect_to="7,13" id="12" row="3" type="1" value="3"/>
+            <Element column="2" connect_to="12,14" id="13" row="4" type="1" value="1"/>
+            <Element column="2" connect_to="8,13" id="14" row="5" type="1" value="-3"/>
+            <Element column="3" connect_to="9,16" id="15" row="0" type="1" value="3"/>
+            <Element column="3" connect_to="15,17" id="16" row="1" type="1" value="2"/>
+            <Element column="3" connect_to="11,16" id="17" row="2" type="1" value="1"/>
+        </Elements>
+    </Puzzle>
+    <Puzzle name="Puzzle 7" desciption="Pour Esmaeil Puzzle 7		15" id="6">
+        <Elements>
+            <Element column="0" connect_to="1,3" id="0" row="1" type="1" value="3"/>
+            <Element column="0" connect_to="0,4" id="1" row="2" type="1" value="1"/>
+            <Element column="1" connect_to="7" id="2" row="0" type="1" value="1"/>
+            <Element column="1" connect_to="0,8" id="3" row="1" type="2" value="0"/>
+            <Element column="1" connect_to="1,5" id="4" row="2" type="1" value="1"/>
+            <Element column="1" connect_to="4,6,9" id="5" row="3" type="1" value="2"/>
+            <Element column="1" connect_to="5,10" id="6" row="4" type="1" value="2"/>
+            <Element column="2" connect_to="2,8,11" id="7" row="0" type="1" value="1"/>
+            <Element column="2" connect_to="3,7,9" id="8" row="1" type="1" value="2"/>
+            <Element column="2" connect_to="5,8" id="9" row="3" type="1" value="1"/>
+            <Element column="2" connect_to="6,13" id="10" row="4" type="1" value="2"/>
+            <Element column="3" connect_to="7,12" id="11" row="0" type="1" value="2"/>
+            <Element column="3" connect_to="11,13" id="12" row="2" type="1" value="1"/>
+            <Element column="3" connect_to="10,12" id="13" row="4" type="1" value="1"/>
+        </Elements>
+    </Puzzle>
+    <Puzzle name="Puzzle 1		28" id="7">
+        <Elements>
+            <Element column="0" connect_to="1" id="0" row="0" type="1" value="5"/>
+            <Element column="0" connect_to="0,4" id="1" row="1" type="1" value="3"/>
+            <Element column="0" connect_to="3,5" id="2" row="2" type="1" value="1"/>
+            <Element column="0" connect_to="2,6,13" id="3" row="3" type="1" value="1"/>
+            <Element column="1" connect_to="1,5,7" id="4" row="1" type="1" value="1"/>
+            <Element column="1" connect_to="2,4" id="5" row="2" type="1" value="1"/>
+            <Element column="1" connect_to="3,9,14" id="6" row="3" type="1" value="4"/>
+            <Element column="2" connect_to="4,8,10" id="7" row="1" type="1" value="2"/>
+            <Element column="2" connect_to="7,9" id="8" row="2" type="1" value="7"/>
+            <Element column="2" connect_to="6,8,15" id="9" row="3" type="1" value="2"/>
+            <Element column="3" connect_to="7,11" id="10" row="1" type="1" value="3"/>
+            <Element column="4" connect_to="10,12" id="11" row="1" type="1" value="1"/>
+            <Element column="4" connect_to="11" id="12" row="2" type="1" value="4"/>
+            <Element column="0" connect_to="3,14" id="13" row="4" type="1" value="1"/>
+            <Element column="1" connect_to="6,13,15" id="14" row="4" type="1" value="3"/>
+            <Element column="2" connect_to="9,14" id="15" row="4" type="1" value="2"/>
+        </Elements>
+    </Puzzle>
+
+
+    <Puzzle name="Puzzle 14		6" id="0">
+        <Elements>
+            <Element column="0" connect_to="1" id="0" row="0" type="1" value="2"/>
+            <Element column="0" connect_to="0,2" id="1" row="1" type="1" value="1"/>
+            <Element column="0" connect_to="1,3" id="2" row="2" type="1" value="1"/>
+            <Element column="0" connect_to="2,7" id="3" row="3" type="1" value="2"/>
+            <Element column="1" connect_to="5" id="4" row="0" type="1" value="-1"/>
+            <Element column="1" connect_to="4,6,9" id="5" row="1" type="1" value="3"/>
+            <Element column="1" connect_to="5,10" id="6" row="2" type="1" value="1"/>
+            <Element column="1" connect_to="3,11" id="7" row="3" type="1" value="2"/>
+            <Element column="2" connect_to="9" id="8" row="0" type="1" value="1"/>
+            <Element column="2" connect_to="5,8,13" id="9" row="1" type="1" value="1"/>
+            <Element column="2" connect_to="6,14" id="10" row="2" type="1" value="1"/>
+            <Element column="2" connect_to="7,15" id="11" row="3" type="1" value="1"/>
+            <Element column="3" connect_to="13" id="12" row="0" type="1" value="1"/>
+            <Element column="3" connect_to="9,12,14" id="13" row="1" type="1" value="2"/>
+            <Element column="3" connect_to="10,13" id="14" row="2" type="1" value="-1"/>
+            <Element column="3" connect_to="11,19" id="15" row="3" type="1" value="-4"/>
+            <Element column="4" connect_to="17" id="16" row="0" type="1" value="1"/>
+            <Element column="4" connect_to="16,18" id="17" row="1" type="1" value="-2"/>
+            <Element column="4" connect_to="17,19" id="18" row="2" type="1" value="-1"/>
+            <Element column="4" connect_to="15,18" id="19" row="3" type="1" value="1"/>
+        </Elements>
+    </Puzzle>
+
+    <Puzzle name="Puzzle 8" desciption="Pour Esmaeil Puzzle 8		16" id="7">
+        <Elements>
+            <Element column="0" connect_to="3" id="0" row="2" type="1" value="2"/>
+            <Element column="1" connect_to="2" id="1" row="0" type="1" value="2"/>
+            <Element column="1" connect_to="1,6" id="2" row="1" type="1" value="3"/>
+            <Element column="1" connect_to="0,7" id="3" row="2" type="1" value="1"/>
+            <Element column="1" connect_to="5,8" id="4" row="3" type="1" value="3"/>
+            <Element column="1" connect_to="4" id="5" row="4" type="1" value="1"/>
+            <Element column="2" connect_to="2,7,9" id="6" row="1" type="1" value="1"/>
+            <Element column="2" connect_to="3,6,8,10" id="7" row="2" type="1" value="1"/>
+            <Element column="2" connect_to="4,11" id="8" row="3" type="1" value="2"/>
+            <Element column="3" connect_to="6,10,12" id="9" row="1" type="1" value="2"/>
+            <Element column="3" connect_to="7,9,11,13" id="10" row="2" type="1" value="2"/>
+            <Element column="3" connect_to="8,10,14" id="11" row="3" type="1" value="1"/>
+            <Element column="4" connect_to="9,13,16" id="12" row="1" type="1" value="1"/>
+            <Element column="4" connect_to="10,12,14,17" id="13" row="2" type="1" value="1"/>
+            <Element column="4" connect_to="11,13,18" id="14" row="3" type="1" value="2"/>
+            <Element column="5" connect_to="16" id="15" row="0" type="1" value="2"/>
+            <Element column="5" connect_to="12,15" id="16" row="1" type="1" value="1"/>
+            <Element column="5" connect_to="13,20" id="17" row="2" type="1" value="1"/>
+            <Element column="5" connect_to="14,19" id="18" row="3" type="1" value="1"/>
+            <Element column="5" connect_to="18" id="19" row="4" type="1" value="4"/>
+            <Element column="6" connect_to="17" id="20" row="2" type="1" value="1"/>
+        </Elements>
+    </Puzzle>
+
+    <Puzzle name="Puzzle 1" desciption="ME 1		21" id="0">
+        <Elements>
+            <Element column="0" connect_to="1" id="0" row="0" type="1" value="1"/>
+            <Element column="1" connect_to="0,4" id="1" row="0" type="1" value="1"/>
+            <Element column="1" connect_to="3,5" id="2" row="1" type="1" value="2"/>
+            <Element column="1" connect_to="2,6" id="3" row="2" type="1" value="1"/>
+            <Element column="2" connect_to="1,10" id="4" row="0" type="1" value="2"/>
+            <Element column="2" connect_to="2,11" id="5" row="1" type="1" value="1"/>
+            <Element column="2" connect_to="3,7,12" id="6" row="2" type="1" value="1"/>
+            <Element column="2" connect_to="6,8,13" id="7" row="3" type="3" value="0"/>
+            <Element column="2" connect_to="7,9,14" id="8" row="4" type="1" value="2"/>
+            <Element column="2" connect_to="8" id="9" row="5" type="1" value="1"/>
+            <Element column="3" connect_to="4,11,15" id="10" row="0" type="1" value="1"/>
+            <Element column="3" connect_to="5,10,16" id="11" row="1" type="1" value="1"/>
+            <Element column="3" connect_to="6,13,17" id="12" row="2" type="1" value="2"/>
+            <Element column="3" connect_to="7,12,18" id="13" row="3" type="1" value="3"/>
+            <Element column="3" connect_to="8,19" id="14" row="4" type="1" value="1"/>
+            <Element column="4" connect_to="10,16" id="15" row="0" type="1" value="6"/>
+            <Element column="4" connect_to="11,15,17" id="16" row="1" type="1" value="4"/>
+            <Element column="4" connect_to="12,16,18" id="17" row="2" type="1" value="1"/>
+            <Element column="4" connect_to="13,17" id="18" row="3" type="1" value="2"/>
+            <Element column="4" connect_to="14" id="19" row="4" type="1" value="1"/>
+        </Elements>
+    </Puzzle>
+
+    <Puzzle name="Puzzle 26		42" id="0">
+        <Elements>
+            <Element column="0" connect_to="4" id="0" row="3" type="1" value="1"/>
+
+            <Element column="1" connect_to="2" id="1" row="0" type="1" value="1"/>
+            <Element column="1" connect_to="1,3,7" id="2" row="1" type="1" value="1"/>
+            <Element column="1" connect_to="2,4" id="3" row="2" type="1" value="1"/>
+            <Element column="1" connect_to="0,3,5,8" id="4" row="3" type="1" value="2"/>
+            <Element column="1" connect_to="4" id="5" row="4" type="1" value="-1"/>
+
+            <Element column="2" connect_to="7" id="6" row="0" type="1" value="2"/>
+            <Element column="2" connect_to="2,6,9" id="7" row="1" type="1" value="-1"/>
+            <Element column="2" connect_to="4,11" id="8" row="3" type="2" value="0"/>
+
+            <Element column="3" connect_to="7,14" id="9" row="1" type="2" value="0"/>
+            <Element column="3" connect_to="11" id="10" row="2" type="1" value="-1"/>
+            <Element column="3" connect_to="8,10,12,15" id="11" row="3" type="1" value="2"/>
+            <Element column="3" connect_to="11" id="12" row="4" type="1" value="-3"/>
+
+            <Element column="4" connect_to="14" id="13" row="0" type="1" value="1"/>
+            <Element column="4" connect_to="9,13,18" id="14" row="1" type="1" value="3"/>
+            <Element column="4" connect_to="11,16" id="15" row="3" type="1" value="2"/>
+            <Element column="4" connect_to="15" id="16" row="4" type="1" value="1"/>
+
+            <Element column="5" connect_to="18" id="17" row="0" type="1" value="3"/>
+            <Element column="5" connect_to="14,17,19" id="18" row="1" type="1" value="-2"/>
+
+            <Element column="6" connect_to="18" id="19" row="1" type="1" value="1"/>
+        </Elements>
+    </Puzzle>
+</Puzzles>
+

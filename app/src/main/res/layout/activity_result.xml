@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mainPanel"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".activity.ResultActivity">
+
+
+    <TextView
+        android:id="@+id/txtScore"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:gravity="center"
+        android:text="DONE"
+        android:textColor="@color/dark_text"
+        android:textSize="72sp"
+        />
+
+    <Button
+
+        android:id="@+id/btnMenu"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentLeft="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/button_circle_blue"
+        android:text="MENU"
+        android:visibility="gone"
+        android:textColor="@color/white"
+        android:textSize="20sp"/>
+
+    <Button
+        android:id="@+id/btnShare"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="25dp"
+        android:layout_marginRight="100dp"
+        android:layout_toEndOf="@+id/txtScore"
+        android:layout_toRightOf="@+id/txtScore"
+        android:background="@drawable/button_circle_white"
+        android:text="SHARE"
+        android:textColor="@color/mid_blue"
+        android:textSize="30sp"
+        android:visibility="gone"/>
+
+    <Button
+        android:id="@+id/btnRetry"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_below="@+id/txtScore"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:background="@drawable/button_circle_blue"
+        android:text="NEXT"
+        android:textColor="@color/white"
+        android:textSize="36sp"
+        android:visibility="visible"/>
+
+
+</RelativeLayout>
